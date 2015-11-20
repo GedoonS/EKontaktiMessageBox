@@ -20,14 +20,15 @@ $( document ).ready(function() {
         $.ajax({
             type: "POST",
             url: url,
-            data: sendInfo,
+            data: JSON.stringify(sendInfo),
+            contentType: "application/json", // send as JSON
             success: function(data){
                 $('*[data-thread-id="'+data['id']+'"]').append(
                     "<div data-sub-id='"+data['id']+"'>"+data['message']+"</div>"
                 );
                 console.log(data);
             },
-          dataType: "json"
+            dataType: "xml/html/script/json" // expected format for response
         });
     });
     $.ajax({
