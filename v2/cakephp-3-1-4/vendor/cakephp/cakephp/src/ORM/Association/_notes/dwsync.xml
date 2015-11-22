@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="ftp.avoinmedia.fi" local="130926624903189959" remote="130926663600000000" Dst="1" />
+<file name="DependentDeleteTrait.php" server="ftp.avoinmedia.fi" local="130926624903819995" remote="130926663600000000" Dst="1" />
+<file name="BelongsToMany.php" server="ftp.avoinmedia.fi" local="130926624903469975" remote="130926663600000000" Dst="1" />
+<file name="ExternalAssociationTrait.php" server="ftp.avoinmedia.fi" local="130926624904150014" remote="130926663600000000" Dst="1" />
+<file name="SelectableAssociationTrait.php" server="ftp.avoinmedia.fi" local="130926624904990062" remote="130926663600000000" Dst="1" />
+<file name="HasMany.php" server="ftp.avoinmedia.fi" local="130926624904400028" remote="130926663600000000" Dst="1" />
+<file name="HasOne.php" server="ftp.avoinmedia.fi" local="130926624904690045" remote="130926663600000000" Dst="1" />
+</dwsync>

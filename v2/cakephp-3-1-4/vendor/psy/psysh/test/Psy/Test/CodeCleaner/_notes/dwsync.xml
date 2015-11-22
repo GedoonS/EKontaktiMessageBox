@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractClassPassTest.php" server="ftp.avoinmedia.fi" local="130926625458971748" remote="130926666000000000" Dst="1" />
+<file name="CalledClassPassTest.php" server="ftp.avoinmedia.fi" local="130926625459591783" remote="130926666000000000" Dst="1" />
+<file name="AssignThisVariablePassTest.php" server="ftp.avoinmedia.fi" local="130926625459281766" remote="130926666000000000" Dst="1" />
+<file name="CallTimePassByReferencePassTest.php" server="ftp.avoinmedia.fi" local="130926625459881800" remote="130926666000000000" Dst="1" />
+<file name="CodeCleanerTestCase.php" server="ftp.avoinmedia.fi" local="130926625460171817" remote="130926666000000000" Dst="1" />
+<file name="FunctionReturnInWriteContextPassTest.php" server="ftp.avoinmedia.fi" local="130926625460571840" remote="130926666000000000" Dst="1" />
+<file name="ImplicitReturnPassTest.php" server="ftp.avoinmedia.fi" local="130926625460961862" remote="130926666000000000" Dst="1" />
+<file name="InstanceOfPassTest.php" server="ftp.avoinmedia.fi" local="130926625461411888" remote="130926666000000000" Dst="1" />
+<file name="LeavePsyshAlonePassTest.php" server="ftp.avoinmedia.fi" local="130926625461751907" remote="130926666000000000" Dst="1" />
+<file name="LegacyEmptyPassTest.php" server="ftp.avoinmedia.fi" local="130926625462181932" remote="130926666000000000" Dst="1" />
+<file name="NamespacePassTest.php" server="ftp.avoinmedia.fi" local="130926625462911973" remote="130926666000000000" Dst="1" />
+<file name="MagicConstantsPassTest.php" server="ftp.avoinmedia.fi" local="130926625462521951" remote="130926666000000000" Dst="1" />
+<file name="StaticConstructorPassTest.php" server="ftp.avoinmedia.fi" local="130926625463372000" remote="130926666000000000" Dst="1" />
+<file name="UseStatementPassTest.php" server="ftp.avoinmedia.fi" local="130926625463752021" remote="130926666000000000" Dst="1" />
+<file name="ValidClassNamePassTest.php" server="ftp.avoinmedia.fi" local="130926625464242049" remote="130926666000000000" Dst="1" />
+<file name="ValidConstantPassTest.php" server="ftp.avoinmedia.fi" local="130926625464612071" remote="130926666000000000" Dst="1" />
+<file name="ValidFunctionNamePassTest.php" server="ftp.avoinmedia.fi" local="130926625464922088" remote="130926666000000000" Dst="1" />
+</dwsync>

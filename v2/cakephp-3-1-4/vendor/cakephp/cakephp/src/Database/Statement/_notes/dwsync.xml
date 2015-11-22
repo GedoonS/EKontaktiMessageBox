@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BufferedStatement.php" server="ftp.avoinmedia.fi" local="130926624832185898" remote="130926663000000000" Dst="1" />
+<file name="BufferResultsTrait.php" server="ftp.avoinmedia.fi" local="130926624832625923" remote="130926663000000000" Dst="1" />
+<file name="CallbackStatement.php" server="ftp.avoinmedia.fi" local="130926624832915940" remote="130926663000000000" Dst="1" />
+<file name="MysqlStatement.php" server="ftp.avoinmedia.fi" local="130926624833245959" remote="130926663000000000" Dst="1" />
+<file name="SqlserverStatement.php" server="ftp.avoinmedia.fi" local="130926624834276017" remote="130926663000000000" Dst="1" />
+<file name="PDOStatement.php" server="ftp.avoinmedia.fi" local="130926624833565977" remote="130926663000000000" Dst="1" />
+<file name="SqliteStatement.php" server="ftp.avoinmedia.fi" local="130926624833966000" remote="130926663000000000" Dst="1" />
+<file name="StatementDecorator.php" server="ftp.avoinmedia.fi" local="130926624834786047" remote="130926663000000000" Dst="1" />
+</dwsync>

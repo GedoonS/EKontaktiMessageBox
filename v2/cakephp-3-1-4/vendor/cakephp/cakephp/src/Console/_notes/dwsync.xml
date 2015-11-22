@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConsoleErrorHandler.php" server="ftp.avoinmedia.fi" local="130926624797823933" remote="130926663000000000" Dst="1" />
+<file name="ConsoleInput.php" server="ftp.avoinmedia.fi" local="130926624798103949" remote="130926663000000000" Dst="1" />
+<file name="ConsoleInputArgument.php" server="ftp.avoinmedia.fi" local="130926624798443968" remote="130926663000000000" Dst="1" />
+<file name="ConsoleInputOption.php" server="ftp.avoinmedia.fi" local="130926624798733985" remote="130926663000000000" Dst="1" />
+<file name="ConsoleInputSubcommand.php" server="ftp.avoinmedia.fi" local="130926624798993999" remote="130926663000000000" Dst="1" />
+<file name="ConsoleIo.php" server="ftp.avoinmedia.fi" local="130926624799334019" remote="130926663000000000" Dst="1" />
+<file name="ConsoleOutput.php" server="ftp.avoinmedia.fi" local="130926624799904051" remote="130926663000000000" Dst="1" />
+<file name="ConsoleOptionParser.php" server="ftp.avoinmedia.fi" local="130926624799624035" remote="130926663000000000" Dst="1" />
+<file name="HelpFormatter.php" server="ftp.avoinmedia.fi" local="130926624800184067" remote="130926663000000000" Dst="1" />
+<file name="Shell.php" server="ftp.avoinmedia.fi" local="130926624800504086" remote="130926663000000000" Dst="1" />
+<file name="ShellDispatcher.php" server="ftp.avoinmedia.fi" local="130926624800884108" remote="130926663000000000" Dst="1" />
+<file name="TaskRegistry.php" server="ftp.avoinmedia.fi" local="130926624801194125" remote="130926663000000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConsoleOutput.php" server="ftp.avoinmedia.fi" local="130926625605220113" remote="130926666600000000" Dst="1" />
+<file name="ConsoleOutputInterface.php" server="ftp.avoinmedia.fi" local="130926625605730142" remote="130926666600000000" Dst="1" />
+<file name="BufferedOutput.php" server="ftp.avoinmedia.fi" local="130926625604840091" remote="130926666600000000" Dst="1" />
+<file name="OutputInterface.php" server="ftp.avoinmedia.fi" local="130926625606970213" remote="130926666600000000" Dst="1" />
+<file name="NullOutput.php" server="ftp.avoinmedia.fi" local="130926625606000158" remote="130926666600000000" Dst="1" />
+<file name="Output.php" server="ftp.avoinmedia.fi" local="130926625606360178" remote="130926666600000000" Dst="1" />
+<file name="StreamOutput.php" server="ftp.avoinmedia.fi" local="130926625607230228" remote="130926666600000000" Dst="1" />
+</dwsync>

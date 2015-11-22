@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="ftp.avoinmedia.fi" local="130926624870868110" remote="130926663600000000" Dst="1" />
+<file name="Event.php" server="ftp.avoinmedia.fi" local="130926624871338137" remote="130926663600000000" Dst="1" />
+<file name="EventDispatcherInterface.php" server="ftp.avoinmedia.fi" local="130926624871688157" remote="130926663600000000" Dst="1" />
+<file name="EventListenerInterface.php" server="ftp.avoinmedia.fi" local="130926624872638212" remote="130926663600000000" Dst="1" />
+<file name="EventManager.php" server="ftp.avoinmedia.fi" local="130926624873698272" remote="130926663600000000" Dst="1" />
+<file name="EventDispatcherTrait.php" server="ftp.avoinmedia.fi" local="130926624872238189" remote="130926663600000000" Dst="1" />
+<file name="EventManagerTrait.php" server="ftp.avoinmedia.fi" local="130926624873958287" remote="130926663600000000" Dst="1" />
+<file name="README.md" server="ftp.avoinmedia.fi" local="130926624874198301" remote="130926663600000000" Dst="1" />
+</dwsync>

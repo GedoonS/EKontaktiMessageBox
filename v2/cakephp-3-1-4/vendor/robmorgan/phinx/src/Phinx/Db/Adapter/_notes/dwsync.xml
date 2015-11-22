@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdapterFactory.php" server="ftp.avoinmedia.fi" local="130926625500904146" remote="130926666000000000" Dst="1" />
+<file name="AdapterInterface.php" server="ftp.avoinmedia.fi" local="130926625501464178" remote="130926666000000000" Dst="1" />
+<file name="AdapterWrapper.php" server="ftp.avoinmedia.fi" local="130926625501884202" remote="130926666000000000" Dst="1" />
+<file name="PdoAdapter.php" server="ftp.avoinmedia.fi" local="130926625503054269" remote="130926666000000000" Dst="1" />
+<file name="MysqlAdapter.php" server="ftp.avoinmedia.fi" local="130926625502544240" remote="130926666000000000" Dst="1" />
+<file name="PostgresAdapter.php" server="ftp.avoinmedia.fi" local="130926625503624302" remote="130926666000000000" Dst="1" />
+<file name="ProxyAdapter.php" server="ftp.avoinmedia.fi" local="130926625504074328" remote="130926666000000000" Dst="1" />
+<file name="TablePrefixAdapter.php" server="ftp.avoinmedia.fi" local="130926625505274396" remote="130926666000000000" Dst="1" />
+<file name="SQLiteAdapter.php" server="ftp.avoinmedia.fi" local="130926625504474351" remote="130926666000000000" Dst="1" />
+<file name="SqlServerAdapter.php" server="ftp.avoinmedia.fi" local="130926625504934377" remote="130926666000000000" Dst="1" />
+<file name="WrapperInterface.php" server="ftp.avoinmedia.fi" local="130926625505774425" remote="130926666000000000" Dst="1" />
+</dwsync>

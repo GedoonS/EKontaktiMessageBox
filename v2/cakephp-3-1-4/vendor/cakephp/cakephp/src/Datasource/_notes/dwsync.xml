@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionManager.php" server="ftp.avoinmedia.fi" local="130926624837686212" remote="130926663600000000" Dst="1" />
+<file name="ConnectionRegistry.php" server="ftp.avoinmedia.fi" local="130926624838016231" remote="130926663600000000" Dst="1" />
+<file name="composer.json" server="ftp.avoinmedia.fi" local="130926624837236187" remote="130926663600000000" Dst="1" />
+<file name="EntityTrait.php" server="ftp.avoinmedia.fi" local="130926624838996287" remote="130926663600000000" Dst="1" />
+<file name="EntityInterface.php" server="ftp.avoinmedia.fi" local="130926624838446256" remote="130926663600000000" Dst="1" />
+<file name="ModelAwareTrait.php" server="ftp.avoinmedia.fi" local="130926624839366309" remote="130926663600000000" Dst="1" />
+<file name="QueryCacher.php" server="ftp.avoinmedia.fi" local="130926624839936341" remote="130926663600000000" Dst="1" />
+<file name="QueryTrait.php" server="ftp.avoinmedia.fi" local="130926624840456371" remote="130926663600000000" Dst="1" />
+<file name="README.md" server="ftp.avoinmedia.fi" local="130926624840986401" remote="130926663600000000" Dst="1" />
+<file name="RepositoryInterface.php" server="ftp.avoinmedia.fi" local="130926624847686784" remote="130926663600000000" Dst="1" />
+<file name="ResultSetDecorator.php" server="ftp.avoinmedia.fi" local="130926624848956857" remote="130926663600000000" Dst="1" />
+<file name="ResultSetInterface.php" server="ftp.avoinmedia.fi" local="130926624849496888" remote="130926663600000000" Dst="1" />
+<file name="RulesAwareTrait.php" server="ftp.avoinmedia.fi" local="130926624850686956" remote="130926663600000000" Dst="1" />
+<file name="RulesChecker.php" server="ftp.avoinmedia.fi" local="130926624852687070" remote="130926663600000000" Dst="1" />
+</dwsync>

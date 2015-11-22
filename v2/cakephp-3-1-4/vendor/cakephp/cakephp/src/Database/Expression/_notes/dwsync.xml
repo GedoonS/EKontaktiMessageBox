@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BetweenExpression.php" server="ftp.avoinmedia.fi" local="130926624824165439" remote="130926663000000000" Dst="1" />
+<file name="CaseExpression.php" server="ftp.avoinmedia.fi" local="130926624824485457" remote="130926663000000000" Dst="1" />
+<file name="Comparison.php" server="ftp.avoinmedia.fi" local="130926624824755473" remote="130926663000000000" Dst="1" />
+<file name="FieldTrait.php" server="ftp.avoinmedia.fi" local="130926624825345507" remote="130926663000000000" Dst="1" />
+<file name="FunctionExpression.php" server="ftp.avoinmedia.fi" local="130926624825665525" remote="130926663000000000" Dst="1" />
+<file name="FieldInterface.php" server="ftp.avoinmedia.fi" local="130926624825065491" remote="130926663000000000" Dst="1" />
+<file name="OrderByExpression.php" server="ftp.avoinmedia.fi" local="130926624826215556" remote="130926663000000000" Dst="1" />
+<file name="OrderClauseExpression.php" server="ftp.avoinmedia.fi" local="130926624826525574" remote="130926663000000000" Dst="1" />
+<file name="IdentifierExpression.php" server="ftp.avoinmedia.fi" local="130926624825945541" remote="130926663000000000" Dst="1" />
+<file name="QueryExpression.php" server="ftp.avoinmedia.fi" local="130926624826875594" remote="130926663000000000" Dst="1" />
+<file name="TupleComparison.php" server="ftp.avoinmedia.fi" local="130926624827195612" remote="130926663000000000" Dst="1" />
+<file name="UnaryExpression.php" server="ftp.avoinmedia.fi" local="130926624827495630" remote="130926663000000000" Dst="1" />
+<file name="ValuesExpression.php" server="ftp.avoinmedia.fi" local="130926624827755644" remote="130926663000000000" Dst="1" />
+</dwsync>

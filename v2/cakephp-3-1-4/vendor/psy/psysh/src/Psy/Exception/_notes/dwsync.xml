@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BreakException.php" server="ftp.avoinmedia.fi" local="130926625436040436" remote="130926666000000000" Dst="1" />
+<file name="ErrorException.php" server="ftp.avoinmedia.fi" local="130926625436340454" remote="130926666000000000" Dst="1" />
+<file name="Exception.php" server="ftp.avoinmedia.fi" local="130926625436610469" remote="130926666000000000" Dst="1" />
+<file name="FatalErrorException.php" server="ftp.avoinmedia.fi" local="130926625436930487" remote="130926666000000000" Dst="1" />
+<file name="ParseErrorException.php" server="ftp.avoinmedia.fi" local="130926625437230504" remote="130926666000000000" Dst="1" />
+<file name="RuntimeException.php" server="ftp.avoinmedia.fi" local="130926625437530522" remote="130926666000000000" Dst="1" />
+<file name="ThrowUpException.php" server="ftp.avoinmedia.fi" local="130926625437820538" remote="130926666000000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="ftp.avoinmedia.fi" local="130926624812774788" remote="130926663000000000" Dst="1" />
+<file name="Connection.php" server="ftp.avoinmedia.fi" local="130926624813064804" remote="130926663000000000" Dst="1" />
+<file name="Driver.php" server="ftp.avoinmedia.fi" local="130926624813394823" remote="130926663000000000" Dst="1" />
+<file name="Exception.php" server="ftp.avoinmedia.fi" local="130926624813734843" remote="130926663000000000" Dst="1" />
+<file name="ExpressionInterface.php" server="ftp.avoinmedia.fi" local="130926624814054861" remote="130926663000000000" Dst="1" />
+<file name="FunctionsBuilder.php" server="ftp.avoinmedia.fi" local="130926624814324876" remote="130926663000000000" Dst="1" />
+<file name="IdentifierQuoter.php" server="ftp.avoinmedia.fi" local="130926624814584891" remote="130926663000000000" Dst="1" />
+<file name="QueryCompiler.php" server="ftp.avoinmedia.fi" local="130926624815304932" remote="130926663000000000" Dst="1" />
+<file name="Query.php" server="ftp.avoinmedia.fi" local="130926624814994915" remote="130926663000000000" Dst="1" />
+<file name="README.md" server="ftp.avoinmedia.fi" local="130926624815604950" remote="130926663000000000" Dst="1" />
+<file name="SqlDialectTrait.php" server="ftp.avoinmedia.fi" local="130926624815884966" remote="130926663000000000" Dst="1" />
+<file name="SqliteCompiler.php" server="ftp.avoinmedia.fi" local="130926624816124979" remote="130926663000000000" Dst="1" />
+<file name="SqlserverCompiler.php" server="ftp.avoinmedia.fi" local="130926624816414996" remote="130926663000000000" Dst="1" />
+<file name="StatementInterface.php" server="ftp.avoinmedia.fi" local="130926624816895023" remote="130926663000000000" Dst="1" />
+<file name="Type.php" server="ftp.avoinmedia.fi" local="130926624817175039" remote="130926663600000000" Dst="1" />
+<file name="TypeConverterTrait.php" server="ftp.avoinmedia.fi" local="130926624817605064" remote="130926663600000000" Dst="1" />
+<file name="TypeMap.php" server="ftp.avoinmedia.fi" local="130926624817975085" remote="130926663600000000" Dst="1" />
+<file name="TypeMapTrait.php" server="ftp.avoinmedia.fi" local="130926624818335106" remote="130926663600000000" Dst="1" />
+<file name="ValueBinder.php" server="ftp.avoinmedia.fi" local="130926624818625122" remote="130926663600000000" Dst="1" />
+</dwsync>

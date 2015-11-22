@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".scrutinizer.yml" server="ftp.avoinmedia.fi" local="130926625475092670" remote="130926666000000000" Dst="1" />
+<file name=".travis.yml" server="ftp.avoinmedia.fi" local="130926625475302682" remote="130926666000000000" Dst="1" />
+<file name="appveyor.yml" server="ftp.avoinmedia.fi" local="130926625475542696" remote="130926666000000000" Dst="1" />
+<file name="box.json" server="ftp.avoinmedia.fi" local="130926625475822712" remote="130926666000000000" Dst="1" />
+<file name="composer.json" server="ftp.avoinmedia.fi" local="130926625476022723" remote="130926666000000000" Dst="1" />
+<file name="composer.lock" server="ftp.avoinmedia.fi" local="130926625476342742" remote="130926666000000000" Dst="1" />
+<file name="CONTRIBUTING.md" server="ftp.avoinmedia.fi" local="130926625476652759" remote="130926666000000000" Dst="1" />
+<file name="LICENSE" server="ftp.avoinmedia.fi" local="130926625476942776" remote="130926666000000000" Dst="1" />
+<file name="phinx.yml" server="ftp.avoinmedia.fi" local="130926625477352799" remote="130926666000000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.avoinmedia.fi" local="130926625477542810" remote="130926666000000000" Dst="1" />
+<file name="README.md" server="ftp.avoinmedia.fi" local="130926625477802825" remote="130926666000000000" Dst="1" />
+</dwsync>

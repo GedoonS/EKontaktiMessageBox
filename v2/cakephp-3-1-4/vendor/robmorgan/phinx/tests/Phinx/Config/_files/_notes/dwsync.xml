@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config_without_array.php" server="ftp.avoinmedia.fi" local="130926625514344915" remote="130926666000000000" Dst="1" />
+<file name="empty.json" server="ftp.avoinmedia.fi" local="130926625514644932" remote="130926666000000000" Dst="1" />
+<file name="empty.yml" server="ftp.avoinmedia.fi" local="130926625514824943" remote="130926666000000000" Dst="1" />
+<file name="external_variables.yml" server="ftp.avoinmedia.fi" local="130926625515244967" remote="130926666000000000" Dst="1" />
+<file name="invalid.json" server="ftp.avoinmedia.fi" local="130926625515554984" remote="130926666000000000" Dst="1" />
+<file name="missing_environment_entry.yml" server="ftp.avoinmedia.fi" local="130926625515925006" remote="130926666000000000" Dst="1" />
+<file name="no_default_database_key.yml" server="ftp.avoinmedia.fi" local="130926625516255024" remote="130926666000000000" Dst="1" />
+<file name="valid_config.json" server="ftp.avoinmedia.fi" local="130926625516565042" remote="130926666000000000" Dst="1" />
+<file name="valid_config.php" server="ftp.avoinmedia.fi" local="130926625516905062" remote="130926666000000000" Dst="1" />
+</dwsync>

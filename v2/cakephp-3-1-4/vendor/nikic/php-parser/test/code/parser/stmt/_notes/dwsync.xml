@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="blocklessStatement.test" server="ftp.avoinmedia.fi" local="130926625370246673" remote="130926666000000000" Dst="1" />
+<file name="declare.test" server="ftp.avoinmedia.fi" local="130926625371066720" remote="130926666000000000" Dst="1" />
+<file name="const.test" server="ftp.avoinmedia.fi" local="130926625370496688" remote="130926666000000000" Dst="1" />
+<file name="controlFlow.test" server="ftp.avoinmedia.fi" local="130926625370826706" remote="130926666000000000" Dst="1" />
+<file name="echo.test" server="ftp.avoinmedia.fi" local="130926625371406740" remote="130926666000000000" Dst="1" />
+<file name="haltCompiler.test" server="ftp.avoinmedia.fi" local="130926625371636753" remote="130926666000000000" Dst="1" />
+<file name="haltCompilerInvalidSyntax.test" server="ftp.avoinmedia.fi" local="130926625371906768" remote="130926666000000000" Dst="1" />
+<file name="haltCompilerOffset.test" server="ftp.avoinmedia.fi" local="130926625372276789" remote="130926666000000000" Dst="1" />
+<file name="haltCompilerOutermostScope.test" server="ftp.avoinmedia.fi" local="130926625372576806" remote="130926666000000000" Dst="1" />
+<file name="hashbang.test" server="ftp.avoinmedia.fi" local="130926625372856823" remote="130926666000000000" Dst="1" />
+<file name="if.test" server="ftp.avoinmedia.fi" local="130926625373166840" remote="130926666000000000" Dst="1" />
+<file name="inlineHTML.test" server="ftp.avoinmedia.fi" local="130926625373456857" remote="130926666000000000" Dst="1" />
+<file name="switch.test" server="ftp.avoinmedia.fi" local="130926625373856880" remote="130926666000000000" Dst="1" />
+<file name="tryCatch.test" server="ftp.avoinmedia.fi" local="130926625374156897" remote="130926666000000000" Dst="1" />
+<file name="tryWithoutCatch.test" server="ftp.avoinmedia.fi" local="130926625374416912" remote="130926666000000000" Dst="1" />
+<file name="unset.test" server="ftp.avoinmedia.fi" local="130926625374686927" remote="130926666000000000" Dst="1" />
+</dwsync>

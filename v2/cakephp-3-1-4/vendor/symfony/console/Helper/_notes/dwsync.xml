@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DebugFormatterHelper.php" server="ftp.avoinmedia.fi" local="130926625591329318" remote="130926666600000000" Dst="1" />
+<file name="DescriptorHelper.php" server="ftp.avoinmedia.fi" local="130926625591759343" remote="130926666600000000" Dst="1" />
+<file name="DialogHelper.php" server="ftp.avoinmedia.fi" local="130926625593369435" remote="130926666600000000" Dst="1" />
+<file name="FormatterHelper.php" server="ftp.avoinmedia.fi" local="130926625593729456" remote="130926666600000000" Dst="1" />
+<file name="Helper.php" server="ftp.avoinmedia.fi" local="130926625594019472" remote="130926666600000000" Dst="1" />
+<file name="HelperInterface.php" server="ftp.avoinmedia.fi" local="130926625594379493" remote="130926666600000000" Dst="1" />
+<file name="HelperSet.php" server="ftp.avoinmedia.fi" local="130926625594669509" remote="130926666600000000" Dst="1" />
+<file name="InputAwareHelper.php" server="ftp.avoinmedia.fi" local="130926625595089533" remote="130926666600000000" Dst="1" />
+<file name="ProcessHelper.php" server="ftp.avoinmedia.fi" local="130926625595379550" remote="130926666600000000" Dst="1" />
+<file name="ProgressBar.php" server="ftp.avoinmedia.fi" local="130926625595759572" remote="130926666600000000" Dst="1" />
+<file name="ProgressHelper.php" server="ftp.avoinmedia.fi" local="130926625596019587" remote="130926666600000000" Dst="1" />
+<file name="QuestionHelper.php" server="ftp.avoinmedia.fi" local="130926625596599620" remote="130926666600000000" Dst="1" />
+<file name="SymfonyQuestionHelper.php" server="ftp.avoinmedia.fi" local="130926625596969641" remote="130926666600000000" Dst="1" />
+<file name="TableCell.php" server="ftp.avoinmedia.fi" local="130926625597969698" remote="130926666600000000" Dst="1" />
+<file name="Table.php" server="ftp.avoinmedia.fi" local="130926625597299660" remote="130926666600000000" Dst="1" />
+<file name="TableHelper.php" server="ftp.avoinmedia.fi" local="130926625598229713" remote="130926666600000000" Dst="1" />
+<file name="TableSeparator.php" server="ftp.avoinmedia.fi" local="130926625598469727" remote="130926666600000000" Dst="1" />
+<file name="TableStyle.php" server="ftp.avoinmedia.fi" local="130926625598839748" remote="130926666600000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="arrayDef.test" server="ftp.avoinmedia.fi" local="130926625358936026" remote="130926666000000000" Dst="1" />
+<file name="assign.test" server="ftp.avoinmedia.fi" local="130926625359226043" remote="130926666000000000" Dst="1" />
+<file name="cast.test" server="ftp.avoinmedia.fi" local="130926625359506059" remote="130926666000000000" Dst="1" />
+<file name="clone.test" server="ftp.avoinmedia.fi" local="130926625359796075" remote="130926666000000000" Dst="1" />
+<file name="comparison.test" server="ftp.avoinmedia.fi" local="130926625360396110" remote="130926666000000000" Dst="1" />
+<file name="closure.test" server="ftp.avoinmedia.fi" local="130926625360086092" remote="130926666000000000" Dst="1" />
+<file name="constant_expr.test" server="ftp.avoinmedia.fi" local="130926625360716128" remote="130926666000000000" Dst="1" />
+<file name="errorSuppress.test" server="ftp.avoinmedia.fi" local="130926625361056148" remote="130926666000000000" Dst="1" />
+<file name="exit.test" server="ftp.avoinmedia.fi" local="130926625361306162" remote="130926666000000000" Dst="1" />
+<file name="includeAndEval.test" server="ftp.avoinmedia.fi" local="130926625361556176" remote="130926666000000000" Dst="1" />
+<file name="issetAndEmpty.test" server="ftp.avoinmedia.fi" local="130926625361816191" remote="130926666000000000" Dst="1" />
+<file name="logic.test" server="ftp.avoinmedia.fi" local="130926625362066205" remote="130926666000000000" Dst="1" />
+<file name="math.test" server="ftp.avoinmedia.fi" local="130926625362506230" remote="130926666000000000" Dst="1" />
+<file name="newWithoutClass.test" server="ftp.avoinmedia.fi" local="130926625363296276" remote="130926666000000000" Dst="1" />
+<file name="new.test" server="ftp.avoinmedia.fi" local="130926625362926255" remote="130926666000000000" Dst="1" />
+<file name="print.test" server="ftp.avoinmedia.fi" local="130926625363636295" remote="130926666000000000" Dst="1" />
+<file name="shellExec.test" server="ftp.avoinmedia.fi" local="130926625363976315" remote="130926666000000000" Dst="1" />
+<file name="ternaryAndCoalesce.test" server="ftp.avoinmedia.fi" local="130926625364416340" remote="130926666000000000" Dst="1" />
+<file name="variable.test" server="ftp.avoinmedia.fi" local="130926625364686355" remote="130926666000000000" Dst="1" />
+</dwsync>

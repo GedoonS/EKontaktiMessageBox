@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Association.php" server="ftp.avoinmedia.fi" local="130926624898649699" remote="130926663600000000" Dst="1" />
+<file name="AssociationCollection.php" server="ftp.avoinmedia.fi" local="130926624898949717" remote="130926663600000000" Dst="1" />
+<file name="AssociationsNormalizerTrait.php" server="ftp.avoinmedia.fi" local="130926624899219732" remote="130926663600000000" Dst="1" />
+<file name="Behavior.php" server="ftp.avoinmedia.fi" local="130926624899519749" remote="130926663600000000" Dst="1" />
+<file name="BehaviorRegistry.php" server="ftp.avoinmedia.fi" local="130926624899789765" remote="130926663600000000" Dst="1" />
+<file name="composer.json" server="ftp.avoinmedia.fi" local="130926624900089782" remote="130926663600000000" Dst="1" />
+<file name="EagerLoadable.php" server="ftp.avoinmedia.fi" local="130926624900349797" remote="130926663600000000" Dst="1" />
+<file name="EagerLoader.php" server="ftp.avoinmedia.fi" local="130926624900619812" remote="130926663600000000" Dst="1" />
+<file name="Entity.php" server="ftp.avoinmedia.fi" local="130926624900919829" remote="130926663600000000" Dst="1" />
+<file name="Marshaller.php" server="ftp.avoinmedia.fi" local="130926624901209846" remote="130926663600000000" Dst="1" />
+<file name="Query.php" server="ftp.avoinmedia.fi" local="130926624901519864" remote="130926663600000000" Dst="1" />
+<file name="README.md" server="ftp.avoinmedia.fi" local="130926624901759877" remote="130926663600000000" Dst="1" />
+<file name="ResultSet.php" server="ftp.avoinmedia.fi" local="130926624902019892" remote="130926663600000000" Dst="1" />
+<file name="RulesChecker.php" server="ftp.avoinmedia.fi" local="130926624902319909" remote="130926663600000000" Dst="1" />
+<file name="TableRegistry.php" server="ftp.avoinmedia.fi" local="130926624902859940" remote="130926663600000000" Dst="1" />
+<file name="Table.php" server="ftp.avoinmedia.fi" local="130926624902589925" remote="130926663600000000" Dst="1" />
+</dwsync>

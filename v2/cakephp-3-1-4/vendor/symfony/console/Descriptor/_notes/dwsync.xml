@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApplicationDescription.php" server="ftp.avoinmedia.fi" local="130926625584768943" remote="130926666600000000" Dst="1" />
+<file name="Descriptor.php" server="ftp.avoinmedia.fi" local="130926625585148965" remote="130926666600000000" Dst="1" />
+<file name="DescriptorInterface.php" server="ftp.avoinmedia.fi" local="130926625586339033" remote="130926666600000000" Dst="1" />
+<file name="MarkdownDescriptor.php" server="ftp.avoinmedia.fi" local="130926625586999071" remote="130926666600000000" Dst="1" />
+<file name="TextDescriptor.php" server="ftp.avoinmedia.fi" local="130926625587459097" remote="130926666600000000" Dst="1" />
+<file name="JsonDescriptor.php" server="ftp.avoinmedia.fi" local="130926625586639050" remote="130926666600000000" Dst="1" />
+<file name="XmlDescriptor.php" server="ftp.avoinmedia.fi" local="130926625587819118" remote="130926666600000000" Dst="1" />
+</dwsync>

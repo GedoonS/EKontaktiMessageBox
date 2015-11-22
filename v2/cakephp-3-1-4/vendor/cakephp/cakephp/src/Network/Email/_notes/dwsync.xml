@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractTransport.php" server="ftp.avoinmedia.fi" local="130926624885768963" remote="130926663600000000" Dst="1" />
+<file name="DebugTransport.php" server="ftp.avoinmedia.fi" local="130926624886038978" remote="130926663600000000" Dst="1" />
+<file name="MailTransport.php" server="ftp.avoinmedia.fi" local="130926624886809022" remote="130926663600000000" Dst="1" />
+<file name="SmtpTransport.php" server="ftp.avoinmedia.fi" local="130926624887239047" remote="130926663600000000" Dst="1" />
+<file name="Email.php" server="ftp.avoinmedia.fi" local="130926624886408999" remote="130926663600000000" Dst="1" />
+</dwsync>

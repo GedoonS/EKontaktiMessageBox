@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMigration.php" server="ftp.avoinmedia.fi" local="130926625507284511" remote="130926666000000000" Dst="1" />
+<file name="IrreversibleMigrationException.php" server="ftp.avoinmedia.fi" local="130926625507934549" remote="130926666000000000" Dst="1" />
+<file name="CreationInterface.php" server="ftp.avoinmedia.fi" local="130926625507594529" remote="130926666000000000" Dst="1" />
+<file name="Manager.php" server="ftp.avoinmedia.fi" local="130926625508314570" remote="130926666000000000" Dst="1" />
+<file name="MigrationInterface.php" server="ftp.avoinmedia.fi" local="130926625509004610" remote="130926666000000000" Dst="1" />
+<file name="Migration.template.php.dist" server="ftp.avoinmedia.fi" local="130926625508544583" remote="130926666000000000" Dst="1" />
+<file name="Util.php" server="ftp.avoinmedia.fi" local="130926625509344629" remote="130926666000000000" Dst="1" />
+</dwsync>

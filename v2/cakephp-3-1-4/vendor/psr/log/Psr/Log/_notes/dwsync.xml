@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="ftp.avoinmedia.fi" local="130926625406638755" remote="130926666000000000" Dst="1" />
+<file name="LoggerAwareInterface.php" server="ftp.avoinmedia.fi" local="130926625407228788" remote="130926666000000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="ftp.avoinmedia.fi" local="130926625406928771" remote="130926666000000000" Dst="1" />
+<file name="LoggerAwareTrait.php" server="ftp.avoinmedia.fi" local="130926625407678814" remote="130926666000000000" Dst="1" />
+<file name="LoggerInterface.php" server="ftp.avoinmedia.fi" local="130926625408358853" remote="130926666000000000" Dst="1" />
+<file name="LoggerTrait.php" server="ftp.avoinmedia.fi" local="130926625408748875" remote="130926666000000000" Dst="1" />
+<file name="LogLevel.php" server="ftp.avoinmedia.fi" local="130926625409168899" remote="130926666000000000" Dst="1" />
+<file name="NullLogger.php" server="ftp.avoinmedia.fi" local="130926625409578923" remote="130926666000000000" Dst="1" />
+</dwsync>

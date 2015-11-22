@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BasicAuthenticateTest.php" server="ftp.avoinmedia.fi" local="130926625107421640" remote="130926663600000000" Dst="1" />
+<file name="ControllerAuthorizeTest.php" server="ftp.avoinmedia.fi" local="130926625107671655" remote="130926663600000000" Dst="1" />
+<file name="DefaultPasswordHasherTest.php" server="ftp.avoinmedia.fi" local="130926625108101679" remote="130926663600000000" Dst="1" />
+<file name="DigestAuthenticateTest.php" server="ftp.avoinmedia.fi" local="130926625108441699" remote="130926663600000000" Dst="1" />
+<file name="FallbackPasswordHasherTest.php" server="ftp.avoinmedia.fi" local="130926625108741716" remote="130926663600000000" Dst="1" />
+<file name="FormAuthenticateTest.php" server="ftp.avoinmedia.fi" local="130926625109041733" remote="130926663600000000" Dst="1" />
+<file name="PasswordHasherFactoryTest.php" server="ftp.avoinmedia.fi" local="130926625109341750" remote="130926663600000000" Dst="1" />
+<file name="WeakPasswordHasherTest.php" server="ftp.avoinmedia.fi" local="130926625109641767" remote="130926663600000000" Dst="1" />
+</dwsync>

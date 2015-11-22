@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcEngine.php" server="ftp.avoinmedia.fi" local="130926624789533458" remote="130926663000000000" Dst="1" />
+<file name="FileEngine.php" server="ftp.avoinmedia.fi" local="130926624789793473" remote="130926663000000000" Dst="1" />
+<file name="MemcachedEngine.php" server="ftp.avoinmedia.fi" local="130926624790053488" remote="130926663000000000" Dst="1" />
+<file name="NullEngine.php" server="ftp.avoinmedia.fi" local="130926624790343505" remote="130926663000000000" Dst="1" />
+<file name="RedisEngine.php" server="ftp.avoinmedia.fi" local="130926624790643522" remote="130926663000000000" Dst="1" />
+<file name="WincacheEngine.php" server="ftp.avoinmedia.fi" local="130926624790963540" remote="130926663000000000" Dst="1" />
+<file name="XcacheEngine.php" server="ftp.avoinmedia.fi" local="130926624791253557" remote="130926663000000000" Dst="1" />
+</dwsync>

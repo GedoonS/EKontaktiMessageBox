@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="20121213232502_create_initial_schema.php" server="ftp.avoinmedia.fi" local="130926625534786084" remote="130926666600000000" Dst="1" />
+<file name="20121223011815_update_info_table.php" server="ftp.avoinmedia.fi" local="130926625535096102" remote="130926666600000000" Dst="1" />
+<file name="20121224200649_rename_info_table_to_statuses_table.php" server="ftp.avoinmedia.fi" local="130926625535376118" remote="130926666600000000" Dst="1" />
+<file name="20121224200739_rename_bio_to_biography.php" server="ftp.avoinmedia.fi" local="130926625535876147" remote="130926666600000000" Dst="1" />
+<file name="20121224200852_create_user_logins_table.php" server="ftp.avoinmedia.fi" local="130926625536176164" remote="130926666600000000" Dst="1" />
+</dwsync>

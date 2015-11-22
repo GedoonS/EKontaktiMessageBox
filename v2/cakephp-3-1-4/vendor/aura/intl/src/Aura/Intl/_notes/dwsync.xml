@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BasicFormatter.php" server="ftp.avoinmedia.fi" local="130926624751141262" remote="130926663000000000" Dst="1" />
+<file name="Exception.php" server="ftp.avoinmedia.fi" local="130926624751391277" remote="130926663000000000" Dst="1" />
+<file name="FormatterInterface.php" server="ftp.avoinmedia.fi" local="130926624751661292" remote="130926663000000000" Dst="1" />
+<file name="FormatterLocator.php" server="ftp.avoinmedia.fi" local="130926624751901306" remote="130926663000000000" Dst="1" />
+<file name="IntlFormatter.php" server="ftp.avoinmedia.fi" local="130926624752131319" remote="130926663000000000" Dst="1" />
+<file name="Package.php" server="ftp.avoinmedia.fi" local="130926624752431336" remote="130926663000000000" Dst="1" />
+<file name="PackageLocatorInterface.php" server="ftp.avoinmedia.fi" local="130926624753311387" remote="130926663000000000" Dst="1" />
+<file name="PackageFactory.php" server="ftp.avoinmedia.fi" local="130926624752671350" remote="130926663000000000" Dst="1" />
+<file name="PackageLocator.php" server="ftp.avoinmedia.fi" local="130926624752971367" remote="130926663000000000" Dst="1" />
+<file name="TranslatorFactory.php" server="ftp.avoinmedia.fi" local="130926624753911421" remote="130926663000000000" Dst="1" />
+<file name="TranslatorInterface.php" server="ftp.avoinmedia.fi" local="130926624754201437" remote="130926663000000000" Dst="1" />
+<file name="Translator.php" server="ftp.avoinmedia.fi" local="130926624753591403" remote="130926663000000000" Dst="1" />
+<file name="TranslatorLocator.php" server="ftp.avoinmedia.fi" local="130926624754501455" remote="130926663000000000" Dst="1" />
+</dwsync>
