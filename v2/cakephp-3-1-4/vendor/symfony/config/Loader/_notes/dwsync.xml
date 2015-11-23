@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="DelegatingLoader.php" server="ftp.avoinmedia.fi" local="130926625555137248" remote="130926666600000000" Dst="1" />
-<file name="FileLoader.php" server="ftp.avoinmedia.fi" local="130926625555457267" remote="130926666600000000" Dst="1" />
-<file name="Loader.php" server="ftp.avoinmedia.fi" local="130926625555807287" remote="130926666600000000" Dst="1" />
-<file name="LoaderInterface.php" server="ftp.avoinmedia.fi" local="130926625556097303" remote="130926666600000000" Dst="1" />
-<file name="LoaderResolver.php" server="ftp.avoinmedia.fi" local="130926625556387320" remote="130926666600000000" Dst="1" />
-<file name="LoaderResolverInterface.php" server="ftp.avoinmedia.fi" local="130926625556647335" remote="130926666600000000" Dst="1" />
-</dwsync>

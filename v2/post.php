@@ -17,7 +17,6 @@ $( document ).ready(function() {
         if(thread>0) {
             sendInfo["responseid"] = $("#thread").val();
         }
-        console.log('what');
         $.ajax({
             type: "POST",
             url: url,
@@ -26,16 +25,19 @@ $( document ).ready(function() {
             success: function(data){
                 // This element doesn't exist 
                 if(data['messages'].length<2) {
-                    $("#forum").append(
+                    $("#forum div").removeClass('highlight');
+                    row = $(
                         "<div data-sub-id='"+data['id']+"'>"+data['messages'][0]['messageBody'].substring(0,70)+"</div>"
-                    );
+                    ).addClass('highlight');
+                    $("#forum").append(row);
                     $("#thread").val(data['id']);
                 }
 
                 $("#threads").empty();
                 for(var i in data['messages']) {
+                    console.log(data['messages'][i]['messageBody']);
                     $("#threads").append(
-                        "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody']+"</span></div>"
+                        "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br />')+"</span></div>"
                     );
                 }
                 $('#forum').animate({width: '40%'});
@@ -48,11 +50,15 @@ $( document ).ready(function() {
         type: "get",
         url: "cakephp-3-1-4/threads/",
         success: function(data){
-            for(var i in data) {
-                
-                $("#forum").append(
-                    "<div data-thread-id='"+data[i]['threadId']+"'>"+data[i]['preview']+"</div>"
-                );
+            if(!data.length) {
+                $("#forum").removeClass('hideNoMessagesHint'); 
+            } else {
+                $("#forum").addClass('hideNoMessagesHint'); 
+                for(var i in data) {
+                    $("#forum").append(
+                        "<div data-thread-id='"+data[i]['threadId']+"'>"+data[i]['preview']+"</div>"
+                    );
+                }
             }
         },
         dataType: "json"
@@ -66,13 +72,13 @@ $( document ).ready(function() {
             success: function(data){
                 $("#theForm").show();    
                 $("#threads").empty();
-                $('#forum').animate({width: '35em'});
+                $('#forum').animate({width: '40%'});
                 $("#title").text('Vastaa viestiketjuun'); 
                 
-                
                 for(var i in data['messages']) {
+                    console.log(data['messages'][i]['messageBody']);
                     $("#threads").append(
-                        "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody']+"</span></div>"
+                        "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br>')+"</span></div>"
                     );
                 }
             },
@@ -84,7 +90,8 @@ $( document ).ready(function() {
         $("#title").text('Kirjoita uusi viesti'); 
         $("#thread").val('');
         $("#theForm").show();  
-        $('#forum').animate({width: '20em'});
+        $('#forum').animate({width: '40%'});
+        $("#forum").addClass('hideNoMessagesHint');        
     });
     $("#theForm").hide();
 
@@ -157,7 +164,12 @@ main {
 .highlight {
     background-color:rgba(255,0,190,0.10);
 }
-
+.hideNoMessagesHint .NoMessagesHint {
+    display:none;
+}
+.NoMessagesHint {
+    display:block;
+}
 </style>
 </head>
 
@@ -169,6 +181,7 @@ main {
 <div id="forum">
 <button id="newthread" type="button" >Aloita uusi viestiketju</button>
 <h2>Viestiketjut</h2>
+<p class="NoMessagesHint">Ketjussa ei ole viestejä. Aloita uusi keskustelu.</p>
 </div>
 <div id="threads"></div>
 
@@ -178,7 +191,7 @@ main {
     <textarea id="message" placeholder="Kirjoita viestisi"></textarea><br>
     <input type="hidden" id="thread" readonly value="" /><br>
     <input type="text" id="name" placeholder="Kirjoita nimesi" />
-    <button id="send" type="button" >&#8680; Lähetä</button>
+    <button id="send" type="button" >Lähetä</button>
 </form>
 
 

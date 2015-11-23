@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="CreateTest.php" server="ftp.avoinmedia.fi" local="130926625522395376" remote="130926666600000000" Dst="1" />
-<file name="InitTest.php" server="ftp.avoinmedia.fi" local="130926625522795398" remote="130926666600000000" Dst="1" />
-<file name="MigrateTest.php" server="ftp.avoinmedia.fi" local="130926625523315428" remote="130926666600000000" Dst="1" />
-<file name="RollbackTest.php" server="ftp.avoinmedia.fi" local="130926625524075472" remote="130926666600000000" Dst="1" />
-<file name="StatusTest.php" server="ftp.avoinmedia.fi" local="130926625524495496" remote="130926666600000000" Dst="1" />
-</dwsync>
