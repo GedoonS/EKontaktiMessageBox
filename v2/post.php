@@ -78,7 +78,7 @@ $( document ).ready(function() {
                 for(var i in data['messages']) {
                     console.log(data['messages'][i]['messageBody']);
                     $("#threads").append(
-                        "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br>')+"</span></div>"
+                        "<div><span class='nick'>" + data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br>')+"</span></div>"
                     );
                 }
             },

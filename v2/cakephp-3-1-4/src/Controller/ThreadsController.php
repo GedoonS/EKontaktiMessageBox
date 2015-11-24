@@ -4,8 +4,7 @@ namespace App\Controller;
 use App\Controller\AppController;
 use Cake\Event\Event;
 
-class ThreadsController extends AppController
-{
+class ThreadsController extends AppController {
     
     public function initialize() {
         // In this example I won't be using an actual database which in terms of CakePHP would be abstract ORM database
@@ -25,14 +24,13 @@ class ThreadsController extends AppController
         $this->response->type('application/json');
 
     }
-    public function index()
-    {
+    public function index() {
         // Index will be called be default if it's a GET request and doesn't contain a parameter. /threads
         foreach($this->messages as $post) {
-            // Collect a list of messages from the objects message store and deliver an abbreviated preview of each message
+            // Collect a list of messages from the objects message store and deliver an abbreviated preview of the latest message in the thread
             $list[] = array(
                 'threadId' => $post['id'],
-                'preview' => substr($post['messages'][0]['messageBody'],0,70),
+                'preview' => substr($post['messages'][sizeof($post['messages'])-1]['messageBody'],0,70),
             );
         }
         
@@ -43,8 +41,7 @@ class ThreadsController extends AppController
     
         return $this->response;
     }
-    public function view($id)
-    {
+    public function view($id) {
         // This is called when client has requested /threads/N where N is a number of the thread
         // NOTE: The original specification stated this should be /threads/:N but that's not the native 
         // cakephp way so I skipped this for now. I'm fairly sure it can be done with a custom router, 
@@ -65,7 +62,7 @@ class ThreadsController extends AppController
       
         return $this->response;
     }
-    public function add(){
+    public function add() {
         // In an actual project this would be database interaction with the model. Since this isn't an actual project,
         // it's not a very good example but a bad mockup just to showcase how the API works...
         
@@ -84,23 +81,29 @@ class ThreadsController extends AppController
             $id = $store_object->responseid;    
 
             if(!isset($this->messages[$id])) {
-                // Client is attemptin to post a response to a non-existing thread. 
+                // Client is attempting to post a response to a non-existing thread. 
                 $this->response->body(json_encode(array('error'=>'THREAD_ID_NOT_FOUND')));
                 $this->response->statusCode(404);            
                 $ok=false;  
             } 
         }
 
-        if($ok) {        
+        if($ok) {
+            // It's okay to save the new message or response, so give it an ID and save it in the data storage file
+            // In a complete MVC application these would be delegated to Model and the inputs would be filtered there to prevent any SQL injections and such.
+            // In this case, the data is simply written in a file as is without any restrictions since none were given in the specification
             $this->messages[$id]['id'] = $id;
             @$store['id'] = sizeof($this->messages[$id]['messages'])+1;
             $store['nickname'] = $store_object->nickname;
             $store['messageBody'] = $store_object->message;
         
             $this->messages[$id]['messages'][$store['id']-1] = $store;
-            file_put_contents($this->dataholder, serialize($this->messages));
-        
-            file_put_contents(__FILE__.'.txt', json_encode($this->messages[$id]));
+            file_put_contents(
+                $this->dataholder,
+                serialize($this->messages)
+            );
+
+            //  Respond to client with json data and a statuscode        
             $this->response->body(json_encode($this->messages[$id]));
             $this->response->statusCode(200);
         }
