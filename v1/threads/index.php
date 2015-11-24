@@ -60,10 +60,14 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     }
 } else if($id>0){
     // GET request and id given = fetching a message
-    if(isset($messages[$id])) // The message requested exists, return it to client
+    if(isset($messages[$id])) { 
+        // The message requested exists, return it to client
         echo json_encode($messages[$id], JSON_PRETTY_PRINT);
-    else // The message id given doesn't exist in our message data
+    } else {
+        // The message id given doesn't exist in our message data
+        http_response_code(404);
         echo json_encode(array('error'=>'THREAD_ID_NOT_FOUND'), JSON_PRETTY_PRINT);
+    }
 } else {
     // GET request & no id = getting a list of all the messages
     foreach($messages as $post) {
