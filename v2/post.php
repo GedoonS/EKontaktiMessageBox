@@ -39,7 +39,6 @@ $( document ).ready(function() {
                 // Refresh the thread view with the server data
                 $("#threads").empty();
                 for(var i in data['messages']) {
-                    console.log(data['messages'][i]['messageBody']);
                     $("#threads").append(
                         "<div><span class='nick'>"+data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br />')+"</span></div>"
                     );
@@ -57,9 +56,9 @@ $( document ).ready(function() {
         url: "cakephp-3-1-4/threads/",
         success: function(data){
             if(!data.length) {
-                $("#NoMessagesHint").hide();    
-            } else {
                 $("#NoMessagesHint").show();    
+            } else {
+                $("#NoMessagesHint").hide();    
                 for(var i in data) {
                     $("#forum").append(
                         "<div data-thread-id='"+data[i]['threadId']+"'>"+data[i]['preview']+"</div>"
@@ -82,7 +81,6 @@ $( document ).ready(function() {
                 $("#title").text('Vastaa viestiketjuun'); 
                 
                 for(var i in data['messages']) {
-                    console.log(data['messages'][i]['messageBody']);
                     $("#threads").append(
                         "<div><span class='nick'>" + data['messages'][i]['nickname'] + '</span><span class="message">' + data['messages'][i]['messageBody'].replace(/(\r\n|\n|\r)/gm, '<br>')+"</span></div>"
                     );

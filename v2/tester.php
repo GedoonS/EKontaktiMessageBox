@@ -112,7 +112,22 @@ foreach(json_decode($threads) as $thread) {
 
 <h1>GET /threads/<?php echo $viewthread ?></h1>
 <pre>Response:
-<?php echo file_get_contents("$base_url/threads/$viewthread"); ?>
+<?php 
+
+    $ch = curl_init();
+
+    curl_setopt($ch, CURLOPT_URL,"$base_url/threads/$viewthread");
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "GET");
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array(                                                                          
+        'Content-Type: application/json',                                                                                
+        'Content-Length: ' . strlen($payload))                                                                       
+    );   
+
+    echo $result = curl_exec ($ch);
+    print_r($info = curl_getinfo($ch));
+    curl_close ($ch);
+ ?>
 </pre>
 
 <h1>GET /threads/1000</h1>
