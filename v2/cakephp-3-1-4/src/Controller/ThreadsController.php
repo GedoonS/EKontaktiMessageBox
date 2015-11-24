@@ -25,6 +25,7 @@ class ThreadsController extends AppController {
 
     }
     public function index() {
+        $list = array();
         // Index will be called be default if it's a GET request and doesn't contain a parameter. /threads
         foreach($this->messages as $post) {
             // Collect a list of messages from the objects message store and deliver an abbreviated preview of the latest message in the thread
